@@ -1,5 +1,7 @@
 # VoiceoverGPT Launch Day Info
 
+![Launch_Certificate](https://github.com/vindiw/backdrop-build/blob/main/build-v2-certificate.png?raw=true)
+
 ## Demo Video
 [![VoiceoverGPT Demo Video](http://img.youtube.com/vi/tDupTuZQ8-I/0.jpg)](https://www.youtube.com/watch?v=tDupTuZQ8-I)
 
